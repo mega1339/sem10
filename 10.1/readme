@@ -1,0 +1,2 @@
+gcc -o unique unique.c
+./unique file10.txt -o ASC
